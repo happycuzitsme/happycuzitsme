@@ -9,7 +9,7 @@ When I'm not buried in code, I also enjoy **content writing** as a side gig. Wri
 - 🎓 **Student**: BTech in CSE at Swami Vivekananda University.
 - ✍️ **Content Writer**: I write engaging and informative content on various topics.
 - 💻 **Tech Enthusiast**: Always eager to learn and experiment with new tools and technologies.
-- 🌱 **Currently Learning**: (Mention any specific technologies, frameworks, or skills you're currently working on, e.g., Python, Machine Learning, Web Development, etc.)
+- 🌱 **Currently Learning**: Docker, Kubernetes, C, Github and Git
 - � **Hobbies**: Coding, writing, reading, and exploring new ideas.
 
 
