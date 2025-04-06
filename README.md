@@ -15,7 +15,6 @@ Passionate **Computer Science and Engineering (CSE)** student at **Swami Vivekan
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/debojyoti-goswami-875460244) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/happycuzitsme)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://x.com/happycuzitsme)
 [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail)](mailto:debojyotigoswami125@gmail.com)
 
@@ -40,13 +39,8 @@ Passionate **Computer Science and Engineering (CSE)** student at **Swami Vivekan
 ## 📊 GitHub Stats
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=happycuzitsme&theme=github_dark&hide_border=true&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=happycuzitsme&theme=github-dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=happycuzitsme&theme=github_dark&hide_border=true&layout=compact)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=happycuzitsme&theme=github_dark&hide_border=true&show_icons=true)](https://github.com/happycuzitsme)  
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=happycuzitsme&theme=github-dark&hide_border=true)](https://github.com/happycuzitsme)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=happycuzitsme&theme=github_dark&hide_border=true&layout=compact)](https://github.com/happycuzitsme)
 
-</div>
-
----
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=happycuzitsme&label=Profile%20Views&color=6&icon=5&pretty=true" />
 </div>
