@@ -1,41 +1,52 @@
 # 💫 About Me:
 
-Hi there, I'm Debojyoti Goswami! 👋
+## Hi there, I'm **Debojyoti Goswami**! 👋
 
-Welcome to my GitHub repository! I'm a passionate **Computer Science and Engineering (CSE)** student at **Swami Vivekananda University**, where I'm pursuing my **BTech** degree. I love exploring new technologies, coding, and solving real-world problems through software development.
+Passionate **Computer Science and Engineering (CSE)** student at **Swami Vivekananda University**, pursuing my **BTech** degree. I love exploring new technologies, coding, and solving real-world problems through software development.
 
-When I'm not buried in code, I also enjoy **content writing** as a side gig. Writing allows me to express my thoughts, share knowledge, and connect with others in a meaningful way.
+### My Journey
 
-## About Me
-
-- 🎓 **Student**: BTech in CSE at Swami Vivekananda University.
-- ✍️ **Content Writer**: I write engaging and informative content on various topics.
-- 💻 **Tech Enthusiast**: Always eager to learn and experiment with new tools and technologies.
-- 🎨 **Hobbies**: Coding, writing, reading, and exploring new ideas.
-
-## Let's Connect!
-
-I'm always open to collaborating on interesting projects or discussing ideas. Feel free to reach out to me:
-
-- 📧 **Email**: debojyotigoswami125@gmail.com
-- 💼 **LinkedIn**: [Debojyoti Goswami](https://linkedin.com/in/debojyoti-goswami-875460244)
-- 🐦 **Twitter**: [@happycuzitsme](https://x.com/happycuzitsme)
-- 📸 **Instagram**: [@happycuzitsme](https://instagram.com/happycuzitsme)
+- 🎓 Pursuing BTech in CSE with focus on emerging technologies  
+- ✍️ Experienced technical & creative content writer  
+- 💻 Open-source enthusiast and continuous learner  
+- 🎯 Passionate about clean code and creative problem-solving  
 
 ---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/debojyoti.goswami.357) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/happycuzitsme) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debojyoti-goswami-875460244) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/happycuzitsme) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debojyotigoswami125@gmail.com) 
+## 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/debojyoti-goswami-875460244) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/happycuzitsme)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://x.com/happycuzitsme)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail)](mailto:debojyotigoswami125@gmail.com)
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## 💻 Tech Stack
+#### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=happycuzitsme&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=happycuzitsme&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=happycuzitsme&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+#### Web & Databases
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+
+#### Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Gimp](https://img.shields.io/badge/-Gimp-5C5543?style=flat&logo=gimp)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+
+## 📊 GitHub Stats
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=happycuzitsme&theme=github_dark&hide_border=true&show_icons=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=happycuzitsme&theme=github-dark&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=happycuzitsme&theme=github_dark&hide_border=true&layout=compact)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=happycuzitsme&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=happycuzitsme&label=Profile%20Views&color=6&icon=5&pretty=true" />
+</div>
