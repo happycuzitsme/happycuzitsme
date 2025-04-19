@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-## Hi there, I'm **Debojyoti Goswami**! 👋
+## Hi there, I'm **Debojyoti**! 👋
 
 Passionate **Computer Science and Engineering (CSE)** student at **Swami Vivekananda University**, pursuing my **BTech** degree. I love exploring new technologies, coding, and solving real-world problems through software development.
 
