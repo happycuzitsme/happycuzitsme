@@ -7,7 +7,7 @@ Passionate **Computer Science and Engineering (CSE)** student at **Swami Vivekan
 ### My Journey
 
 - 🎓 Pursuing BTech in CSE with focus on emerging technologies  
-- ✍️ Experienced technical & creative content writer  
+- ✍️ DevOps oriented
 - 💻 Open-source enthusiast and continuous learner  
 - 🎯 Passionate about clean code and creative problem-solving  
 
