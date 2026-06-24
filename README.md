@@ -1,5 +1,5 @@
 # About Me:
-I,m currently learning hands on Devops with rust and python as main backend languages. Looking to collaborate on linux infrastructor designing gigs along with performing CI/CD automations and also learner level rust and intermediate python projects.<br>
+HI!!I,m Debojyoti Goswami, currently learning hands on DevOps with rust and python as main backend languages. Looking to collaborate on linux infrastructor designing gigs along with performing CI/CD automations and also learner level rust and intermediate python projects.<br>
 
 
 ## Socials:
@@ -16,6 +16,3 @@ I,m currently learning hands on Devops with rust and python as main backend lang
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=happycuzitsme&icon=9&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
