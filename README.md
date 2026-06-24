@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/816a13b4-eb9a-4554-846d-2c1852aac66d
+
 # About Me:
 HI!!I,m Debojyoti Goswami, currently learning hands on DevOps with rust and python as main backend languages. Looking to collaborate on linux infrastructor designing gigs along with performing CI/CD automations and also learner level rust and intermediate python projects.<br>
 
